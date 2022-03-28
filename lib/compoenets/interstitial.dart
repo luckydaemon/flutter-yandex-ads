@@ -56,7 +56,7 @@ class YandexAdsIntersttialComponents {
     await interstitial.load(id);
   }
 
-  void show() {
-    interstitial.show();
+  Future<void> show() async  {
+    await interstitial.show();
   }
 }
