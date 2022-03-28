@@ -52,8 +52,8 @@ class YandexAdsIntersttialComponents {
   final FlutterYandexAds ads;
   late YandexAdsInterstitial interstitial;
 
-  void load() {
-    interstitial.load(id);
+  Future<void> load() async {
+    await interstitial.load(id);
   }
 
   void show() {
