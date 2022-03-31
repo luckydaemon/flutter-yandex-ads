@@ -2,7 +2,7 @@
 
 Yandex ADS for flutter applicaitions
 
-[Donnations](https://www.tinkoff.ru/cf/6xz8n4h0LzO)
+Original creator https://gitflic.ru/project/kovardin/flutter-yandex-ads
 
 ## Roadmap
 
